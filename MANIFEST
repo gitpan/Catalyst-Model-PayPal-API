@@ -1,0 +1,11 @@
+Build.PL
+LICENSE
+MANIFEST
+MANIFEST.SKIP
+META.json
+META.yml
+README
+lib/Catalyst/Model/PayPal/API.pm
+t/author-critic.t
+t/release-pod-coverage.t
+t/release-pod-syntax.t
