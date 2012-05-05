@@ -18,7 +18,7 @@ my %module_build_args = (
     "Dean Hamstead <dean\@fragfest.com.au>"
   ],
   "dist_name" => "Catalyst-Model-PayPal-API",
-  "dist_version" => "0.1",
+  "dist_version" => "0.2",
   "license" => "perl",
   "module_name" => "Catalyst::Model::PayPal::API",
   "recommends" => {},
