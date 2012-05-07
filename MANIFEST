@@ -1,10 +1,12 @@
 Build.PL
+Changes
 LICENSE
 MANIFEST
 MANIFEST.SKIP
 META.json
 META.yml
 README
+lib/Catalyst/Helper/Model/PayPal/API.pm
 lib/Catalyst/Model/PayPal/API.pm
 t/00.load.t
 t/author-critic.t
