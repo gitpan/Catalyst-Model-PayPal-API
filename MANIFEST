@@ -6,9 +6,12 @@ MANIFEST.SKIP
 META.json
 META.yml
 README
+cpanfile
+examples/example.txt
 lib/Catalyst/Helper/Model/PayPal/API.pm
 lib/Catalyst/Model/PayPal/API.pm
 t/00.load.t
 t/author-critic.t
+t/release-distmeta.t
 t/release-pod-coverage.t
 t/release-pod-syntax.t
